@@ -1,2 +1,0 @@
-# server-mc-github
-server
